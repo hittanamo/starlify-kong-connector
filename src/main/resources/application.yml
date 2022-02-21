@@ -1,0 +1,5 @@
+kong:
+  server:
+    url: http://localhost:8001
+starlify:
+  url: https://api.starlify.com
